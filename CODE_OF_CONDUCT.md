@@ -25,7 +25,10 @@ We will not accept the following:
 
 ## Reporting Misconduct
 
-If you see misconduct, speak with one of the community's [Administrators](ADMINISTRATORS.md) if possible.
+If you see misconduct, add the following comment to inform all Administrators about the misconduct.
+
+> @nimble-ui/admin
+
 If reactions are enabled on the issue, pull request, or discussion thread,
 a thumbs down (:-1:) *will* be treated as a report.
 
