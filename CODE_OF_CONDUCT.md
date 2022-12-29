@@ -20,7 +20,7 @@ We will not accept the following:
 - Harassment of individuals, groups, or other entities inside or outside the community
 - Attempts to hurt the reputation(s) of others
 - Being an inconvenience to other community members
-  or obstructing activities relating to the development of NimbleUI
+  or obstructing activities relating to the development of NimbleUI (this includes spamming, too)
 - Discriminatory behavior based on race, gender, disability, or any other attribute.
 
 ## Reporting Misconduct
