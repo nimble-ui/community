@@ -21,5 +21,12 @@ assignees: IRod22
 
 <!-- Required. All core members are required to uphold the Community Guidelines. Be honest, thoughtful, and thorough about how confident you feel about enforcing the Community Guidelines. -->
 
+## Your stats
+
+<!-- Please replace {username} in each image URL with your username -->
+
+![github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact)
+![trophy](https://github-profile-trophy.vercel.app/?username={username})
 
 <!-- Thank you for your time! -->
