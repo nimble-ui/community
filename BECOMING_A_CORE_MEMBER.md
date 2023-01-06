@@ -20,10 +20,6 @@ and the new member will be announced soon after if there are no community enforc
 Administrators are core members who have completed their shadowing and have not been suspended;
 Administrators are also required to assist in enforcing the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Suspension
+## Violation Committed by a Core Member
 
-Core members who violate the Code of Conduct or mislabel content as violating the Code of Conduct will be suspended for seven days.
-During that period, the member in question will not be able to participate in locked issues and pull requests,
-and the member will be subject to violation policies and lockouts.
-If a suspended member commits misconduct once more, they will lose their core member status,
-and for fourteen days, their future applications will be denied.
+Core members who violate the Code of Conduct or mislabel content as violating the Code of Conduct will be met with [disciplinary actions](./org-policies/progressive_discipline.md).
