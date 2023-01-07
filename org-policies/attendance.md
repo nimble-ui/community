@@ -1,4 +1,4 @@
-# Attendence Policy
+P# Attendence Policy
 
 ## Policy brief & purpose
 
@@ -31,7 +31,8 @@ Tardiness refers to coming in late. We probably won’t mind if you’re a bit l
 
 ### Unforeseen Absences
 
-If you cannot complete the required tasks in a timely manner, let all members know via the `#general` channel as soon as possible. Afterwards, you should draw from your remaining time off or sick leave to cover this absence. Please report that you are available again via the `#general` channel as quickly as possible. Unexcused or unreported absence for more than three days will be considered job abandonment.
+If you cannot complete the required tasks in a timely manner, let all members know via the `#general` channel as soon as possible. Afterwards, you should draw from your remaining time off (10 days per momth; unused days do not accumulate) or sick leave 10 days per momth; unused days do not accumulate) to cover this absence. Please report that you are available again via the `#general` channel as quickly as possible. Unexcused or unreported absence for more than three days will be considered job abandonment.
+ to cover this absence. Please report that you are available again via the `#general` channel as quickly as possible. Unexcused or unreported absence for more than three days will be considered job abandonment.
 
 We will understand if you have good reasons for being absent, even if you don’t report it. Those reasons usually involve serious accidents, family emergencies, or acute medical emergencies.
 
