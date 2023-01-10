@@ -54,7 +54,7 @@ A committer who shows an above-average level of contribution to the project, par
 ### Project management committee
 The project management committee consists of those individuals identified as ‘project owners’ on the development site. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
 
-Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers. It also makes decisions when community consensus cannot be reached. In addition, the PMC has administrative access to the Slack workspace and Community's GitHub Profile.
+Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers and enforces the [Code of Conduct](CODE_OF_CONDUCT.md). It also makes decisions when community consensus cannot be reached. In addition, the PMC has administrative access to the Slack workspace and Community's GitHub Profile.
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 

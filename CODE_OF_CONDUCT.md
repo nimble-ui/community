@@ -25,20 +25,20 @@ We will not accept the following:
 
 ## Reporting Misconduct
 
-If you see misconduct, add the following comment to inform all Administrators about the misconduct.
+If you see misconduct, add the following comment to inform all [PMC members](./GOVERNANCE.md#project-management-committee) about the misconduct.
 
-> @nimble-ui/admin
+> @nimble-ui/pmc
 
 If reactions are enabled on the issue, pull request, or discussion thread,
 a thumbs down (:-1:) *will* be treated as a report.
 
-Administrators will do their best to promptly respond to misconduct,
+PMC members will do their best to promptly respond to misconduct,
 but it is up to the community's members to report misconduct to an Administrator.
 We would rather have one report too many than one report too few.
 
 ## Administrative Policies and Practices
 
-Administrators will not take a report lightly; appropriate actions will be taken as needed, and the community member in question will be warned as deemed necessary by Administrators.
+The PMC will not take a report lightly; appropriate actions will be taken as needed, and the community member in question will be warned as deemed necessary by the PMC.
 
 Diciplinary actions will range from a public warning, to a temporary user account ban, to a perminent user ban.
 In the most severe cases, if a large amount of community members are in violation of the Code of Conduct, a temporary lockdown **will** be in effect.
